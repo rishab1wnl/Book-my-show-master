@@ -2,8 +2,6 @@
 
 **Book My Show Master** is a comprehensive web application designed for booking movie tickets seamlessly. This project is powered by **Create React App** to ensure a smooth and efficient user experience.
 
-![Book My Show Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Bookmyshow_logo.png/320px-Bookmyshow_logo.png)
-
 ## 🚀 Getting Started
 
 To set up the project locally, follow these steps:
