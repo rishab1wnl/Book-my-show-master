@@ -1,9 +1,10 @@
 # 🎥 Book My Show Master 🍿
-
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 <img src="https://img.shields.io/badge/-BookMyShow-C4242B?style=flat&logo=bookmyshow&logoColor=white"/>
+
+    ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+    ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+    ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
 **Book My Show Master** is a comprehensive web application designed for booking movie tickets seamlessly. This project is powered by **Create React App** to ensure a smooth and efficient user experience.
 
 ## 🚀 Getting Started
